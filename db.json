@@ -1,34 +1,5 @@
 {
-   "seo_category_infos":[
-      [
-         "Beauty",
-         "beauty"
-      ],
-      [
-         "Dance & Performance",
-         "dance_and_performance"
-      ],
-      [
-         "Fitness",
-         "fitness"
-      ],
-      [
-         "Food & Drink",
-         "food_and_drink"
-      ],
-      [
-         "Home & Garden",
-         "home_and_garden"
-      ],
-      [
-         "Music",
-         "music"
-      ],
-      [
-         "Visual Arts",
-         "visual_arts"
-      ]
-   ],
+   
    "logging_page_id":"profilePage_4552289498",
    "show_suggested_profiles":false,
    "show_follow_dialog":false,
